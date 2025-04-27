@@ -96,6 +96,7 @@ hgroup button {
     margin-top: 15px;
     background-color: #3882F6;
     border-radius: 10px;
+    border: 0;
     color: #E5E7EB;
     padding: 10px 55px;
     font-size: 18px;
@@ -191,4 +192,12 @@ hgroup button {
     padding: 0px 40px;
     font-size: 20px;
     font-weight: 700;
+}
+
+footer {
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
 }
